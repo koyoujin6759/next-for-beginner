@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "Not Found",
+};
+
 import Navigation from "../components/navigation";
 
 export default function NotFound() {
