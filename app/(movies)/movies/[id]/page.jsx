@@ -1,5 +1,4 @@
 import { Suspense } from "react";
-import MovieInfo from "@/components/movie-info";
 import MovieVideos from "@/components/movie-videos";
 import styles from "../../../../styles/movie.module.css";
 import MovieInfo, { getMovie } from "@/components/movie-info";
